@@ -1277,6 +1277,7 @@
 	"resources.detail.duration": "时长",
 	"resources.detail.elapsed": "已用时间",
 	"resources.detail.exit": "退出",
+	"resources.detail.model": "模型",
 	"resources.detail.reason": "原因",
 	"resources.detail.started": "开始时间",
 	"resources.detail.task": "任务",
